@@ -23,7 +23,7 @@ iframe {
     border: none;
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 30px; /* Space between iframes */
+    margin-bottom: 20px; /* Space between iframes */
     display: block;
     margin-left: 20px;
     margin-right: auto; /* Center iframes */
