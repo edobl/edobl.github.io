@@ -5,10 +5,10 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
-    text-align: center; /* Center text */
+    text-align: center; /* Center text globally */
 }
 
-/* Container for Iframes */
+/* Container for Iframes and Content */
 .container {
     width: 90%;
     margin: 20px auto;
@@ -28,18 +28,14 @@ iframe {
     border: none;
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 20px; /* Add space between iframes */
+    margin-bottom: 20px; /* Space between iframes */
 }
 
-/* Header Styling */
-h1 {
+/* Header and Subheader Styling */
+h1, h2 {
     color: #007bff;
-}
-
-/* Chart Title Styling */
-h2 {
-    color: #007bff;
-    margin-top: 40px;
+    width: 100%;
+    text-align: center; /* Centering headers */
 }
 
 /* Responsive Design */
