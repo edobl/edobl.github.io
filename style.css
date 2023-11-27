@@ -10,8 +10,8 @@ body {
 
 /* Container for Iframes and Content */
 .container {
-    width: 95%; /* Increased width */
-    margin: 20px auto;
+    width: 98%; /* Increased width */
+    margin: 40px auto;
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
