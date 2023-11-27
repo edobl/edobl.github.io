@@ -24,6 +24,7 @@ body {
 /* Styling for Iframes */
 iframe {
     width: 100%;
+    max-width: 100%;
     height: 500px;
     border: none;
     border-radius: 4px;
@@ -34,8 +35,9 @@ iframe {
 /* Header and Subheader Styling */
 h1, h2 {
     color: #007bff;
-    width: 100%;
     text-align: center; /* Centering headers */
+    margin: 20px 0; /* Spacing around headers */
+    width: 100%;
 }
 
 /* Responsive Design */
