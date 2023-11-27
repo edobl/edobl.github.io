@@ -25,9 +25,9 @@ body {
 iframe {
     width: 100%;
     max-width: 100%;
-    height: 600px; /* Increased height */
+    height: 700px; /* Increased height */
     border: none;
-    border-radius: 4px;
+    border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px; /* Space between iframes */
 }
@@ -36,7 +36,7 @@ iframe {
 h1, h2 {
     color: #007bff;
     text-align: center; /* Centering headers */
-    margin: 30px 0; /* Increased spacing around headers */
+    margin: 40px 0; /* Increased spacing around headers */
     width: 100%;
     font-size: larger; /* Bigger font size for headers */
 }
